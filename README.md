@@ -1,6 +1,7 @@
 current project is to test my knowledge of creating a repository for a website
 
 I will have demonstrated:
+<<<<<<< HEAD
 
 - Creating a repository on GitHub
 - Cloning the key to my local drive
