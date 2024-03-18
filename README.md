@@ -4,4 +4,5 @@ I will have demonstrated:
 - creating a repository on GitHub
 - cloning the key to my local drive
 - setting up the index page
-- adding a second page and linking to it from index
+- adding a 3 pages with links to images, headings, unordered and ordered lists.
+- Relative links to those pages from the index
